@@ -42,3 +42,4 @@ env/
 
 # 日志
 *.log
+data/conversations/*.json
